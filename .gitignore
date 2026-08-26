@@ -1,0 +1,9 @@
+node_modules/
+dist/
+
+# Local build and TypeScript cache files
+*.tsbuildinfo
+
+# macOS metadata, including AppleDouble files created on external drives
+.DS_Store
+._*
